@@ -45,4 +45,4 @@ def show_article(id):
         return response
 
 if __name__ == '__main__':
-    app.run(port=5555)
+    app.run(port=5556)
